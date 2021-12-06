@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NickHlzv
+- 👀 I’m interested in dataScience and ML disciplines
+- 🌱 I’m currently learning DS & ML
